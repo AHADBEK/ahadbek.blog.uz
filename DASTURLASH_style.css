@@ -1,0 +1,33 @@
+
+
+
+.warpper {
+    margin-left: 50%;
+    margin-top: 300px;
+}
+
+body {
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.btn {
+    padding: 15px 40px;
+    background-color: rgb(99, 4, 252);
+    color:  rgb(255, 251, 0);
+    border-radius: 7%;
+    border: none;
+}
+
+.btn:hover {
+    background-color: rgb(0, 255, 0);
+    border:none;
+    border-radius: 20%;
+    transition: 1.5s all 1s ease-in;
+}
+
+.btn:active {
+    background-color: rgb(38, 211, 38);
+    color: #ffffff;
+    border: none;
+}
